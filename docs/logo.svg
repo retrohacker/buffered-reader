@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="499.33911"
+   height="302.58228"
+   id="svg2">
+  <defs
+     id="defs4" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-137.03922,-266.01652)"
+     id="layer1">
+    <rect
+       width="185.54095"
+       height="47.516663"
+       ry="14.142136"
+       x="137.03922"
+       y="382.40134"
+       id="rect2985-4"
+       style="fill:#364f6b;fill-opacity:1;stroke:none" />
+    <rect
+       width="185.54095"
+       height="47.516663"
+       ry="14.142136"
+       x="137.03922"
+       y="436.14938"
+       id="rect2985-7"
+       style="fill:#364f6b;fill-opacity:1;stroke:none" />
+    <path
+       d="m 205.39328,488.88748 -22.49308,38.99823 16.03257,-0.015 c -2.08735,15.47095 11.41018,32.02712 31.96395,38.22115 19.04839,5.74037 37.94266,0.69437 46.02859,-11.25501 -9.59724,5.73744 -23.3777,7.26025 -37.23256,3.085 -16.95197,-5.1086 -29.08107,-17.26506 -31.6512,-30.04911 l 19.90012,-0.0269 -22.54839,-38.95837 z"
+       id="path3782"
+       style="fill:#fc5185;fill-opacity:1;stroke:none" />
+    <path
+       d="m 284.79463,287.73644 -39.43294,-21.72198 0.33021,16.02919 c -15.50899,-1.78277 -31.79659,12.03765 -37.58531,32.70924 -5.36474,19.15756 0.0518,37.94898 12.15781,45.7984 -5.92502,-9.48258 -7.71849,-23.23044 -3.81643,-37.16471 4.77431,-17.04913 16.68996,-29.41491 29.421,-32.23588 l 0.41814,19.89575 38.50752,-23.31001 z"
+       id="path3782-4"
+       style="fill:#fc5185;fill-opacity:1;stroke:none" />
+    <rect
+       width="185.54095"
+       height="47.516663"
+       ry="14.142136"
+       x="137.03922"
+       y="328.65335"
+       id="rect2985"
+       style="fill:#364f6b;fill-opacity:1;stroke:none" />
+    <text
+       x="328.29959"
+       y="398.35968"
+       id="text3824"
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:102.99999714%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Biting My Nails;-inkscape-font-specification:Biting My Nails"><tspan
+         x="328.29959"
+         y="398.35968"
+         dy="0"
+         rotate="0 0 0 0 0 0 0 0 0"
+         id="tspan3826"
+         style="font-size:56px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:102.99999714%;letter-spacing:-1px;fill:#3fc1c9;fill-opacity:1;font-family:Biting My Nails;-inkscape-font-specification:Biting My Nails">Buffered</tspan><tspan
+         x="328.29959"
+         y="456.03967"
+         rotate="0 0 0 0 0 0 0"
+         id="tspan3828"
+         style="font-size:56px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:102.99999714%;letter-spacing:-1px;fill:#3fc1c9;fill-opacity:1;font-family:Biting My Nails;-inkscape-font-specification:Biting My Nails">Reader</tspan></text>
+  </g>
+</svg>
