@@ -22,12 +22,12 @@ You may run this waterfall in a loop. The time your event loop spends waiting fo
 
 # Installation
 
-`npm install buffered-reader`
+`npm install bufferedreader`
 
 # Usage
 
 ```
-var BufferedReader = require('buffered-reader')
+var BufferedReader = require('bufferedreader')
 
 var sqsBuffer = new BufferedReader(10, fetchFromSQS)
 
