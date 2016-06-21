@@ -1,4 +1,5 @@
 ![BufferedReader](./docs/logo.png)
+
 # BufferedReader
 
 [![Build Status](https://travis-ci.org/retrohacker/buffered-reader.png?branch=master)](https://travis-ci.org/retrohacker/buffered-reader) ![](https://img.shields.io/github/issues/retrohacker/buffered-reader.svg) ![](https://img.shields.io/npm/dm/bufferedreader.svg) ![](https://img.shields.io/npm/dt/bufferedreader.svg) ![](https://img.shields.io/npm/v/bufferedreader.svg) ![](https://img.shields.io/npm/l/bufferedreader.svg)  ![](https://img.shields.io/twitter/url/https/github.com/retrohacker/bufferedreader.svg?style=social)
