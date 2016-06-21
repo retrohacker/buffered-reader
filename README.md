@@ -48,11 +48,11 @@ function fetchFromSQS (cb) {
 
 # API
 
-### `reader = new BufferedReader(bufferLength, function populateBuffer`
+### `reader = new BufferedReader(length, function populateBuffer`
 
 Creates a new `BufferedReader` instance.
 
-`bufferLength` is an integer that defines how deep of a buffer the reader should attempt to maintain. For example, if you specify `10` here, the reader will hold at most 10 responses in memory at any one time.
+`length` is an integer that defines how deep of a buffer the reader should attempt to maintain. For example, if you specify `10` here, the reader will hold at most 10 responses in memory at any one time.
 
 `populateBuffer` is the function that the reader will use to populate the buffer. It should be in the form of `function populateBuffer(cb)`. The callback provided to your function should be called with the response of your function (irrespective of whether or not it is asynchronous). The values passed to the callback will be passed directly back to you out of the buffer in the same exact order. For example:
 
