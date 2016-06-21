@@ -1,6 +1,6 @@
 {
   "name": "bufferedreader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Buffer responses from asynchronous functions to increase the performance of Node.js applications",
   "main": "index.js",
   "directories": {
