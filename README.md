@@ -1,4 +1,4 @@
-![BufferedReader](./docs/logo.svg)
+![BufferedReader](./docs/logo.png)
 # BufferedReader
 
 `BufferedReader` allows you to create a buffer of results from asynchronous requests. This is not to be confused with Node.js' native `Buffer` type, this is a temporary store that we populate with results of asynchronous requests for the event loop to consume.
@@ -55,7 +55,7 @@ Creates a new `BufferedReader` instance.
 cb(`foo`, `bar`, `buzz`)
 ```
 
-Will pass `foo`, `bar`, `buzz` back to you in that exact order during the next invocation of `reader`.
+Will pass `foo`, `bar`, `buzz` back to you in that exact order during the next invocation of `reader`. It is important to note here that we do not attempt to identify errors. If an error occurs, your invocation of `reader` should handle that error and move forward with life.
 
 ### `reader(function getResponse)`
 
