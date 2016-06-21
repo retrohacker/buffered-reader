@@ -48,7 +48,7 @@ function fetchFromSQS (cb) {
 
 # API
 
-### `reader = new BufferedReader(length, function populateBuffer`
+### `reader = new BufferedReader(length, function populateBuffer)`
 
 Creates a new `BufferedReader` instance.
 
