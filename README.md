@@ -1,4 +1,4 @@
-![BufferedReader](./docs/logo.svg)
+![BufferedReader](./docs/logo.png)
 # BufferedReader
 
 `BufferedReader` allows you to create a buffer of results from asynchronous requests. This is not to be confused with Node.js' native `Buffer` type, this is a temporary store that we populate with results of asynchronous requests for the event loop to consume.
