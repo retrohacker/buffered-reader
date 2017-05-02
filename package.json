@@ -29,6 +29,6 @@
   "devDependencies": {
     "istanbul": "^0.4.4",
     "tape": "^4.6.0",
-    "standard": "^7.1.2"
+    "standard": "^10.0.2"
   }
 }
