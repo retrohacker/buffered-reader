@@ -2,6 +2,8 @@
 
 # BufferedReader
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/retrohacker/buffered-reader.svg)](https://greenkeeper.io/)
+
 [![Build Status](https://travis-ci.org/retrohacker/buffered-reader.png?branch=master)](https://travis-ci.org/retrohacker/buffered-reader) ![](https://img.shields.io/github/issues/retrohacker/buffered-reader.svg) ![](https://img.shields.io/npm/dm/bufferedreader.svg) ![](https://img.shields.io/npm/dt/bufferedreader.svg) ![](https://img.shields.io/npm/v/bufferedreader.svg) ![](https://img.shields.io/npm/l/bufferedreader.svg)  ![](https://img.shields.io/twitter/url/https/github.com/retrohacker/bufferedreader.svg?style=social)
 
 [![NPM](https://nodei.co/npm/bufferedreader.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/bufferedreader/)
